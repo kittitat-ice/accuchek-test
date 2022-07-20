@@ -2,5 +2,5 @@
 
 accu-chek guide & accu-chek instant test backup
 
-android kotlin
-gatt BLE
+- android kotlin
+- gatt BLE
